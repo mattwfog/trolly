@@ -1,0 +1,22 @@
+# Swift / SPM
+.build/
+.swiftpm/
+
+# Xcode
+*.xcodeproj
+*.xcworkspace
+DerivedData/
+xcuserdata/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
